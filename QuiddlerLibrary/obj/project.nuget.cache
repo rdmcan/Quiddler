@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "/HXF2SiM4Y+JWAyY6WEOswPFGF+hWB9RFiatuvjYfYWevFA6Xd8bhufC51W/U3R4m6DKVLcnJ21niuoFY7iolg==",
+  "success": true,
+  "projectFilePath": "D:\\rdmca\\Documents\\Portafolio\\Projects\\QuiddlerLibrary\\QuiddlerLibrary\\QuiddlerLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rdmca\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rdmca\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\rdmca\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
